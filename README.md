@@ -45,13 +45,13 @@ Final-year IT undergraduate building backend systems with Spring Boot and explor
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nuveenrakeesha&theme=ocean_dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nuveenrakeesha&background=0D1117&hide_border=true&stroke=1f2937&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=8b949e)](https://git.io/streak-stats)
 
 </div>
 
 ### Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nuveenrakeesha&theme=ocean-dark&hide_border=true&area=true)](https://github-readme-activity-graph.vercel.app/graph?username=nuveenrakeesha&theme=ocean-dark&hide_border=true&area=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nuveenrakeesha&bg_color=0D1117&color=8b949e&line=06b6d4&point=ffffff&area=true&area_color=06b6d4&title_color=06b6d4&border_color=0D1117&hide_border=true)](https://github-readme-activity-graph.vercel.app/graph?username=nuveenrakeesha&bg_color=0D1117&color=8b949e&line=06b6d4&point=ffffff&area=true&area_color=06b6d4&title_color=06b6d4&border_color=0D1117&hide_border=true)
 
 ---
 
