@@ -57,7 +57,6 @@ Final-year IT undergraduate building backend systems with Spring Boot and explor
 
 <div align="center">
 
-<sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge/">ReadmeForge</a> · <a href="https://github.com/nuveenrakeesha">github.com/nuveenrakeesha</a></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer" width="100%" alt="Footer wave"/>
 
